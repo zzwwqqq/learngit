@@ -1,0 +1,4 @@
+2019年9月21日
+machine learning a probabilistic perspective
+1.4.3 The curse of dimensionality
+p18
